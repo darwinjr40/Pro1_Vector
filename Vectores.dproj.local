@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/29 17:20:45.000.679,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 17:21:02.000.624,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/01/29 17:21:55.000.545,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\UNIVESIDAD MAYKOL\II-2020\Programación I\DELPHI\PROGRAMACION I\VECTOR\UCVector.pas</Transaction>
+    <Transaction>2021/01/29 17:22:07.000.484,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\UNIVESIDAD MAYKOL\II-2020\Programación I\DELPHI\PROGRAMACION I\VECTOR\UFPrincipal.pas</Transaction>
+    <Transaction>2021/01/29 17:22:07.000.484,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\UNIVESIDAD MAYKOL\II-2020\Programación I\DELPHI\PROGRAMACION I\VECTOR\UFPrincipal.dfm</Transaction>
+    <Transaction>2021/01/29 17:22:22.000.714,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\UNIVESIDAD MAYKOL\II-2020\Programación I\DELPHI\PROGRAMACION I\VECTOR\Vectores.dproj</Transaction>
+    <Transaction>2021/07/17 15:23:34.070,=D:\09_inf120\03_Vector\03_VECTOR\UCNumero.pas</Transaction>
+  </Transactions>
+</BorlandProject>
